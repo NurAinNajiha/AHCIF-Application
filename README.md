@@ -1,9 +1,9 @@
 # AHCIF Application
- The ACHIF Application is a food donation application developed with Android Studio, FireBase real-time storage, and FireBase identification through Emailid and Password. Through this app, the user can either contribute food or request food.
+The ACHIF Application is a food donation application developed with Android Studio, FireBase real-time storage, and FireBase identification through Emailid and Password. Through this app, the user can either contribute food or request food.
 
 
-## Component
--RecyclerView And CardView
+## Component Used
+-RecyclerView 
 -CardView
 -Firebase
 -Java
