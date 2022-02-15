@@ -3,7 +3,4 @@ The ACHIF Application is a food donation application developed with Android Stud
 
 
 ## Component Used
--RecyclerView 
--CardView
--Firebase
--Java
+-RecyclerView, CardView, Firebase and Java
